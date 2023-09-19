@@ -8,7 +8,7 @@
   +91 9025868204
 - LinkedIn:
 https://www.linkedin.com/in/gowtham-mani-04b69b267
-- 💞 I'm currently persuing final year BE ECE in velalar college of engineering and technology.
+- 💞 I'm currently persuing final year BE ECE in Velalar College Of Engineering And Technology.
 
 <!---
 Gowtham-143a/Gowtham-143a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
