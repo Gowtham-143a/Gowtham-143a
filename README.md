@@ -2,8 +2,10 @@
 - 👀 I’m interested in Front-End development and Internet of Things
 - 🌱 I’m currently learning java script framework 
 - 📫 How to reach me?
-- Gmail-gaga61393@gmail.com
-- Mobile- +91 9025868204
+- Gmail-
+- gaga61393@gmail.com
+- Mobile-
+- +91 9025868204
 - LinkedIn-https://www.linkedin.com/in/gowtham-mani-04b69b267
 - 💞 I'm currently persuing final year BE ECE in velalar college of engineering and technology.
 
