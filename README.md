@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gowtham-143a
+- 👋 Hi, I’m @Gowtham Mani
 - 👀 I’m interested in Front-End development and Internet of Things
 - 🌱 I’m currently learning java script framework 
 - 📫 How to reach me?
