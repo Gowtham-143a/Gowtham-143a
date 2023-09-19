@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gowtham Mani
 - 👀 I’m interested in Front-End development and Internet of Things
-- 🌱 I’m currently learning java script framework 
+- 🌱 I’m currently learning java script frameworks 
 - 📫 How to reach me?
 - Gmail:
   gaga61393@gmail.com
